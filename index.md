@@ -6,7 +6,9 @@
 
 ### Output:
 
-![Image](Lab3Code.png)  
+![Image](Lab3SS1.png)  
+![Image](Lab3SS2.png)  
+
 
 
 
