@@ -1,5 +1,5 @@
 
-# String Server
+# Lab 2
 ### Code: 
 
 ![Image](Lab3Code.png)  
