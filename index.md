@@ -9,6 +9,11 @@
 ![Image](Lab3SS1.png)  
 ![Image](Lab3SS2.png)  
 
+FIX:::
+-mention handleRequest code 
+-"messages" field is not relevant
+-add written responses to each part (path to private key , path to public key, .etc)
+
 The main method is called to run the code, it has implementation of the Handler class that deals with specific message requests.
 Relevant arguments include handleRequest(URI url) taking a URI argument in order to get information of path and query string. A relevant field is the "messages" field where it stores and updates new message request while tracking the count. The messages field checks that the request path is "/add-message" and that the query string starts with "s=". Then, the query string is extracted and the web shows and output of the message. 
 
